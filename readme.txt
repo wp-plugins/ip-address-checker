@@ -1,10 +1,10 @@
-=== Plugin Name ===
-Contributors: markjaquith, mdawaffe
-Donate link: http://example.com/
-Tags: comments, spam
-Requires at least: 2.0.2
-Tested up to: 2.1
-Stable tag: 4.3
+=== IP Address Checker ===
+Contributors: dsltester
+Donate link: http://www.dsltester.de
+Tags: ip,ip-address,ip-adresse,speedtest
+Requires at least: 2.1.3
+Tested up to: 2.6.1
+Stable tag: 1
 
 Here is a short description of the plugin.  This should be no more than 150 chars.  No markup here.
 
@@ -42,52 +42,36 @@ This section describes how to install the plugin and get it working.
 e.g.
 
 1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Place `<?php do_action('plugin_name_hook'); ?>` in your templates
+2. Activate the plugin through the 'Plugins' menu in WordPress
+3. Configure the plugin through the 'Widgets' menu in WordPress
 
 == Frequently Asked Questions ==
 
-= A question that someone might have =
+= Which languages are supported? =
 
-An answer to that question.
-
-= What about foo bar? =
-
-Answer to foo bar dilemma.
+The banner will be displayed in the user's language. Following languages are supported:
+* English
+* German
+English is default language.
 
 == Screenshots ==
 
+1. screenshot.gif
+2. screenshot2.gif
 1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Note that the screenshot is taken from
 the directory of the stable readme.txt, so in this case, `/tags/4.3/screenshot-1.png` (or jpg, jpeg, gif)
 2. This is the second screen shot
 
-== Arbitrary section ==
+== Credits ==
 
-You may provide arbitrary sections, in the same format as the ones above.  This may be of use for extremely complicated
-plugins where more information needs to be conveyed that doesn't fit into the categories of "description" or
-"installation."  Arbitrary sections will be shown below the built-in sections outlined above.
+Copyright 2007-2008 Alex Rabe & NextGEN DEV-Team
 
-== A brief Markdown Example ==
+The Flags are taken from the Flags set of FamFamFam. 
 
-Ordered list:
+See more at http://www.famfamfam.com/lab/icons/flags/
 
-1. Some feature
-1. Another feature
-1. Something else about the plugin
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
 
-Unordered list:
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
-* something
-* something else
-* third thing
-
-Here's a link to [WordPress](http://wordpress.org/ "Your favorite software") and one to [Markdown's Syntax Documentation][markdown syntax].
-Titles are optional, naturally.
-
-[markdown syntax]: http://daringfireball.net/projects/markdown/syntax
-            "Markdown is what the parser uses to process much of the readme file"
-
-Markdown uses email style notation for blockquotes and I've been told:
-> Asterisks for *emphasis*. Double it up  for **strong**.
-
-`<?php code(); // goes in backticks ?>`
+You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
