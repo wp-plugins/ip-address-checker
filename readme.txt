@@ -19,6 +19,9 @@ The Widget displays following user information:
 
 It is multilingual.
 
+Live preview (your information):
+<img src="http://www.dsltester.de/images/dsl-infos/view/468x60.gif" alt="IP Adresse" />
+
 == Installation ==
 
 To use the widget you only have to do this:
