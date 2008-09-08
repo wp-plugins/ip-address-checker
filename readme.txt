@@ -1,7 +1,7 @@
 === IP Address Widget ===
 Contributors: dsltester
 Donate link: http://www.dsltester.de
-Tags: ip,ip-address,ip-adresse,speedtest
+Tags: widget, ip, ip-address, ip-adresse, speedtest
 Requires at least: 2.1.3
 Tested up to: 2.6.1
 Stable tag: 1.0
@@ -38,8 +38,8 @@ English is default language.
 
 == Screenshots ==
 
-1. Frontend
-2. Backend
+&middot; <a href="http://www.dsltester.de/images/dsl-infos/screen/frontend.gif">screenshot-1 - Frontend</a><br>
+&middot; <a href="http://www.dsltester.de/images/dsl-infos/screen/backend.gif">screenshot-2 - Backend</a><br>
 
 == Credits ==
 
