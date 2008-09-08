@@ -23,7 +23,7 @@ It is multilingual.
 
 To use the widget you only have to do this:
 
-1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
+1. Upload `ip-checker.php` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Configure the plugin through the 'Widgets' menu in WordPress
 
