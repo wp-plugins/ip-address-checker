@@ -2,7 +2,7 @@
 /* 
 Plugin Name: IP-Checker
 Version: 1.0
-Plugin URI: http://www.dsltester.de/dsl/wordpress-ip-checker/
+Plugin URI: http://www.dsltester.de/dsl/wordpress-ip-widget/
 Description: Zeigt Deinem Besucher seine IP-Adresse, das Betriebssystem, den Browsertyp und die Herkunft an.
 Author: DSLtester.de
 Author URI: http://www.dsltester.de/
