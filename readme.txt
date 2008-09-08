@@ -32,8 +32,10 @@ To use the widget you only have to do this:
 = Which languages are supported? =
 
 The banner will be displayed in the user's language. Following languages are supported:
-* English
-* German
+
+*		English
+*		German
+
 English is default language.
 
 == Screenshots ==
