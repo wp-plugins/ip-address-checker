@@ -3,7 +3,7 @@ Contributors: dsltester
 Donate link: http://www.dsltester.de
 Tags: widget, ip, ip-address, ip-adresse, speedtest
 Requires at least: 2.1.3
-Tested up to: 2.6.1
+Tested up to: 2.6.3
 Stable tag: 1.0
 
 IP Address Widget displays user information (IP address, browser, operating system, country) in your blog.
